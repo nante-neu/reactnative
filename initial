@@ -1,0 +1,4 @@
+npm install --global eas-cli
+npx create-expo-app incmuseumcollection
+cd incmuseumcollection
+eas init --id a0f3401a-7f9e-4c25-a53c-4a9db85f15b3
